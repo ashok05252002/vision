@@ -1,0 +1,6 @@
+/* styles.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @import 'https://cdn.jsdelivr.net/npm/flowbite@latest/dist/flowbite.min.css'; */
